@@ -26,3 +26,7 @@ Streamlit 🎈
 NumPy 📊
 Scikit-learn (model training)
 Pickle (model serialization)
+## 🌐 Live Web Application
+🚀 **Experience the interactive app live on the web here:** [Launch Iris Analytics Hub 🌸](https://modelreplayment-9fwjbabecpzrbmaawpz52e.streamlit.app/)
+
+---
